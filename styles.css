@@ -44,11 +44,11 @@ grid-gap: 10px;
     color: white
 }
 
-.address-wrapper {
+.navigation-wrapper > .right-column > .address-wrapper {
     font-family: 'Ubuntu Condensed', sans-serif;
 }
 
-.banner-image img {
+.navigation-wrapper > .center-column > .banner-image img {
     width: 216px;
     height: 100%;
 }
